@@ -6,7 +6,7 @@ date: 2019-02-23
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>CatsLinc</b></a> 创益联和, o不需设限.</center>
+<center><a href="http://catslinc"><b>CatsLinc</b></a> 创益联和, 不需设限.</center>
 
 ## Features
 * Minimal, you can focus on your content
@@ -28,10 +28,10 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+See a [live version of Moon](https://bossguloi.github.io) hosted on GitHub.
 
 ## Getting Started
 
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[Install Moon](https://github.com/bossguloi/bossguloi.github.io){: .btn}
