@@ -6,7 +6,7 @@ date: 2019-02-23
 comments: false
 ---
     
-<center><a href="http://catslinc"><b>CatsLinc</b></a> 创益联和, 不需设限.</center>
+<center><a href="http://catslinc"><b>CatsLinc</b></a> 创益联和，不需设限。</center>
 
 ## Features
 * Minimal, you can focus on your content
