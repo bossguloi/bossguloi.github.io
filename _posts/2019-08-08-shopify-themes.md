@@ -3,7 +3,7 @@ layout: post
 title:  "Shopify E-business Solution"
 date:   2019-08-09
 excerpt: "The Definitive Guide to Shopify Themes"
-project: false
+project: true
 tag:
 - shopify
 - blog
