@@ -5,6 +5,7 @@ date:   2019-08-14
 excerpt: "经营战略 组织管理 市场营销 管理会计 金融学 逻辑思维"
 tag:
 - blog
+- mba
 comments: false
 ---
 
@@ -12,7 +13,7 @@ comments: false
     
 <center><b>Loi</b> is the author of this site.</center>
      
- I'm not a developer or designer or writer. If you like the contents of this site or using them, please give a **star** for motivation, It makes me happy.
+ I'm not a developer or designer or writer. If you like the contents of this site or want to reprint them, please give a **star** for motivation, It makes me happy.
 
 <iframe src="https://ghbtns.com/github-btn.html?user=bossguloi&repo=bossguloi.github.io&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
 
