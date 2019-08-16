@@ -4,9 +4,7 @@ title:  "金融学"
 date:   2019-08-18
 excerpt: "你的事业值多少钱？"
 tag:
-- post
-- mba
-- management
+- mba knowledge system
 comments: false
 ---
 

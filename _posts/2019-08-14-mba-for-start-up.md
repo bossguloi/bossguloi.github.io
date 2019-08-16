@@ -4,8 +4,7 @@ title:  "这是创业者需要的MBA知识体系"
 date:   2019-08-14
 excerpt: "经营战略 组织管理 市场营销 管理会计 金融学 逻辑思维"
 tag:
-- blog
-- mba
+- mba knowledge system
 comments: false
 ---
 

@@ -4,9 +4,7 @@ title:  "逻辑思维"
 date:   2019-08-20
 excerpt: "理清条理有逻辑地思考"
 tag:
-- post
-- mba
-- management
+- mba knowledge system
 comments: false
 ---
 

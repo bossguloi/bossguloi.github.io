@@ -4,9 +4,7 @@ title:  "组织管理"
 date:   2019-08-17
 excerpt: "促进组织中成员们的行为改变"
 tag:
-- post
-- mba
-- management
+- mba knowledge system
 comments: false
 ---
 

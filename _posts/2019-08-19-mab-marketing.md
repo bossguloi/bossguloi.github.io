@@ -4,9 +4,7 @@ title:  "市场营销"
 date:   2019-08-19
 excerpt: "创造让他人购买的机制"
 tag:
-- post
-- mba
-- management
+- mba knowledge system
 comments: false
 ---
 

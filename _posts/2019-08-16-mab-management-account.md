@@ -4,9 +4,7 @@ title:  "管理会计"
 date:   2019-08-16
 excerpt: "根据战略决定用于检测的指标"
 tag:
-- post
-- mba
-- management
+- mba knowledge system
 comments: false
 ---
 

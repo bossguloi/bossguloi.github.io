@@ -4,9 +4,7 @@ title:  "经营战略"
 date:   2019-08-15
 excerpt: "在企业经营中为了取胜的策略"
 tag:
-- post
-- mba
-- management
+- mba knowledge system
 comments: false
 ---
 
