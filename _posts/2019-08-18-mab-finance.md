@@ -2,7 +2,7 @@
 layout: post
 title:  "金融学"
 date:   2019-08-18
-excerpt: "促进组织中成员们的行为改变"
+excerpt: "你的事业值多少钱？"
 tag:
 - post
 - mba
